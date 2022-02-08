@@ -1,0 +1,7 @@
+"repo_url","min_sup","confidence","algorthim","min_pattern_length","max_pattern_length"
+"https://github.com/apache/accumulo.git","0.2","95","fp-growth","1","1"
+"https://github.com/apache/ambari","0.2","95","fp-growth","1","1"
+"-https://github.com/apache/hadoop","0.2","95","fp-growth","1","1"
+"https://github.com/apache/lucene","0.2","95","fp-growth","1","1"
+"https://github.com/apache/jackrabbit","0.2","95","fp-growth","1","1"
+"https://github.com/apache/oozie","0.2","95","fp-growth","1","1"
